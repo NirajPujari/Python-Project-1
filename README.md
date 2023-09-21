@@ -1,2 +1,2 @@
 # Python-Project-1
-In this project we have tried to create a game which is already there but in a new way and from scratch. Its a 2048 Game
+You Should Read the .PPT to learn about game development To run the game add the .py and .png in the same file and then run the .py file. Sit backa dn relax and play the game.
